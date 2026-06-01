@@ -1,0 +1,14 @@
+# Dataset
+dataset.zip
+dataset/
+
+# Python Virtual Environment
+.venv/
+__pycache__/
+
+# Temporary fix scripts
+fix_path.py
+fix_path2.py
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
